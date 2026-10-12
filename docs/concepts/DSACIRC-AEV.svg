@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1200"
+   height="900"
+   viewBox="0 0 1200 900"
+   version="1.1"
+   id="svg38"
+   sodipodi:docname="DSACIRC-AEV.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview38"
+     pagecolor="#000000"
+     bordercolor="#000000"
+     borderopacity="0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.8966667"
+     inkscape:cx="648.51299"
+     inkscape:cy="438.84757"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg38" />
+  <defs
+     id="defs2">
+    <marker
+       id="arrowTiny"
+       viewBox="0 0 10 10"
+       refX="9"
+       refY="5"
+       markerWidth="5"
+       markerHeight="5"
+       orient="auto-start-reverse">
+      <path
+         d="M 0 0 L 10 5 L 0 10 z"
+         fill="currentColor"
+         id="path1" />
+    </marker>
+    <marker
+       id="arrowSmall"
+       viewBox="0 0 10 10"
+       refX="9"
+       refY="5"
+       markerWidth="6"
+       markerHeight="6"
+       orient="auto-start-reverse">
+      <path
+         d="M 0 0 L 10 5 L 0 10 z"
+         fill="currentColor"
+         id="path2" />
+    </marker>
+    <marker
+       id="arrowSmall-0"
+       viewBox="0 0 10 10"
+       refX="9"
+       refY="5"
+       markerWidth="6"
+       markerHeight="6"
+       orient="auto-start-reverse">
+      <path
+         d="M 0,0 10,5 0,10 Z"
+         fill="currentColor"
+         id="path2-9" />
+    </marker>
+    <marker
+       id="arrowTiny-8"
+       viewBox="0 0 10 10"
+       refX="9"
+       refY="5"
+       markerWidth="5"
+       markerHeight="5"
+       orient="auto-start-reverse">
+      <path
+         d="M 0,0 10,5 0,10 Z"
+         fill="currentColor"
+         id="path1-2" />
+    </marker>
+  </defs>
+  <text
+     x="50%"
+     y="48"
+     text-anchor="middle"
+     style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:22px;line-height:normal;font-family:Inter, 'Segoe UI', sans-serif;fill:#111111"
+     id="text2"><tspan
+       style="fill:#746c00;fill-opacity:1"
+       id="tspan1">Orka Leviathan Networking Flow</tspan></text>
+  <text
+     x="50%"
+     y="72"
+     text-anchor="middle"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:normal;font-family:Inter, 'Segoe UI', sans-serif;fill:#555555"
+     id="text3"><tspan
+       style="fill:#af3f4b;fill-opacity:1"
+       id="tspan2">Decentralized Simulation • Centralized Input Relay • Host-Authoritative Event Validation</tspan></text>
+  <rect
+     x="470.0"
+     y="351.0"
+     width="260.0"
+     height="98.0"
+     rx="18"
+     style="fill:#ffffff;stroke:#1e3a8a;stroke-width:2;fill-opacity:0.72818792"
+     id="rect3" />
+  <text
+     x="600.0"
+     y="405.0"
+     text-anchor="middle"
+     style="font: 600 16px Inter, Segoe UI, sans-serif; fill:#1e3a8a;"
+     id="text4">Relay Server (ENet/UDP)</text>
+  <rect
+     x="885.0"
+     y="95.0"
+     width="210.0"
+     height="70.0"
+     rx="12"
+     style="fill:#ffffff;stroke:#6b7280;stroke-width:1.5;stroke-dasharray:5, 4;fill-opacity:0.50335568"
+     id="rect4" />
+  <text
+     x="990.0"
+     y="135.0"
+     text-anchor="middle"
+     style="font: 600 14px Inter, Segoe UI, sans-serif; fill:#374151;"
+     id="text5">Account Server (Optional)</text>
+  <rect
+     x="515.0"
+     y="90.0"
+     width="170.0"
+     height="60.0"
+     rx="14"
+     style="fill:#fff7ed;stroke:#b45309;stroke-width:2;fill-opacity:0.54026848"
+     id="rect5" />
+  <text
+     x="600.0"
+     y="125.0"
+     text-anchor="middle"
+     style="font: 600 14px Inter, Segoe UI, sans-serif; fill:#92400e;"
+     id="text6">Client 1 (host)</text>
+  <text
+     x="600"
+     y="87.018585"
+     text-anchor="middle"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:normal;font-family:Inter, 'Segoe UI', sans-serif;fill:#b45309"
+     id="text7">best hardware • verified build</text>
+  <rect
+     x="774.5"
+     y="234.0"
+     width="136.0"
+     height="52.0"
+     rx="12"
+     style="fill:#ffffff;stroke:#0f766e;stroke-width:1.8;fill-opacity:0.19463088"
+     id="rect7" />
+  <text
+     x="842.5"
+     y="265.0"
+     text-anchor="middle"
+     style="font: 600 14px Inter, Segoe UI, sans-serif; fill:#115e59;"
+     id="text8">Client 2</text>
+  <rect
+     x="774.5"
+     y="514.0"
+     width="136.0"
+     height="52.0"
+     rx="12"
+     style="fill:#ffffff;stroke:#0f766e;stroke-width:1.8;fill-opacity:0.2181208"
+     id="rect8" />
+  <text
+     x="842.5"
+     y="545.0"
+     text-anchor="middle"
+     style="font: 600 14px Inter, Segoe UI, sans-serif; fill:#115e59;"
+     id="text9">Client 3</text>
+  <rect
+     x="532.0"
+     y="654.0"
+     width="136.0"
+     height="52.0"
+     rx="12"
+     style="fill:#ffffff;stroke:#0f766e;stroke-width:1.8;fill-opacity:0.26845637"
+     id="rect9" />
+  <text
+     x="600.0"
+     y="685.0"
+     text-anchor="middle"
+     style="font: 600 14px Inter, Segoe UI, sans-serif; fill:#115e59;"
+     id="text10">Client 4</text>
+  <rect
+     x="289.5"
+     y="514.0"
+     width="136.0"
+     height="52.0"
+     rx="12"
+     style="fill:#ffffff;stroke:#0f766e;stroke-width:1.8;fill-opacity:0.25503355"
+     id="rect10" />
+  <text
+     x="357.5"
+     y="545.0"
+     text-anchor="middle"
+     style="font: 600 14px Inter, Segoe UI, sans-serif; fill:#115e59;"
+     id="text11">Client 5</text>
+  <rect
+     x="289.5"
+     y="234.0"
+     width="136.0"
+     height="52.0"
+     rx="12"
+     style="fill:#ffffff;stroke:#0f766e;stroke-width:1.8;fill-opacity:0.26174498"
+     id="rect11" />
+  <text
+     x="357.5"
+     y="265.0"
+     text-anchor="middle"
+     style="font: 600 14px Inter, Segoe UI, sans-serif; fill:#115e59;"
+     id="text12">Client 6</text>
+  <path
+     d="m 563.33034,153.69124 q -10,100 0,200"
+     style="color:#2563eb;opacity:0.95;fill:none;stroke:#2563eb;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round"
+     marker-end="url(#arrowTiny)"
+     id="path12" />
+  <path
+     d="m 798.50107,284.83797 q -79.69982,33.15849 -150.69878,80.28689"
+     style="color:#2563eb;opacity:0.95;fill:none;stroke:#2563eb;stroke-width:1.83876;stroke-linecap:round;stroke-linejoin:round"
+     marker-end="url(#arrowTiny)"
+     id="path13" />
+  <path
+     d="M 796.26743,513.48602 Q 727.63585,464.39738 650.59353,429.8597"
+     style="color:#2563eb;opacity:0.95;fill:none;stroke:#2563eb;stroke-width:1.84507;stroke-linecap:round;stroke-linejoin:round"
+     marker-end="url(#arrowTiny)"
+     id="path14" />
+  <path
+     d="m 563.20401,653.38262 q 9.92918,-103.62426 0,-207.24851"
+     style="color:#2563eb;opacity:0.95;fill:none;stroke:#2563eb;stroke-width:2.23157;stroke-linecap:round;stroke-linejoin:round"
+     marker-end="url(#arrowTiny)"
+     id="path15" />
+  <path
+     d="m 406.43228,514.68965 q 63.27513,-34.38038 119.6425,-83.24547"
+     style="color:#2563eb;opacity:0.95;fill:none;stroke:#2563eb;stroke-width:1.66829;stroke-linecap:round;stroke-linejoin:round"
+     marker-end="url(#arrowTiny)"
+     id="path16" />
+  <path
+     d="m 387.43565,285.27283 q 53.51288,46.9452 113.58371,79.97479"
+     style="color:#2563eb;opacity:0.95;fill:none;stroke:#2563eb;stroke-width:1.59325;stroke-linecap:round;stroke-linejoin:round"
+     marker-end="url(#arrowTiny)"
+     id="path17" />
+  <path
+     d="m 613.40611,352.90265 c 2.31214,-46.98236 11.06006,-94.47089 0,-200"
+     style="color:#16a34a;opacity:0.95;fill:none;stroke:#16a34a;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round"
+     marker-end="url(#arrowSmall)"
+     id="path18"
+     sodipodi:nodetypes="cc" />
+  <path
+     d="m 644.92812,351.95692 q 71.44313,-49.86766 151.64155,-84.95343"
+     style="color:#16a34a;opacity:0.95;fill:none;stroke:#16a34a;stroke-width:1.89735;stroke-linecap:round;stroke-linejoin:round"
+     marker-end="url(#arrowSmall)"
+     id="path19" />
+  <path
+     d="m 654.04693,447.77842 q 75.55509,36.13984 142.86179,87.50566"
+     style="color:#16a34a;opacity:0.95;fill:none;stroke:#16a34a;stroke-width:1.86906;stroke-linecap:round;stroke-linejoin:round"
+     marker-end="url(#arrowSmall)"
+     id="path20" />
+  <path
+     d="m 622.3186,450.02248 q 9.88349,105.86346 0,211.72692"
+     style="color:#16a34a;opacity:0.95;fill:none;stroke:#16a34a;stroke-width:2.25035;stroke-linecap:round;stroke-linejoin:round"
+     marker-end="url(#arrowSmall)"
+     id="path21" />
+  <path
+     d="m 539.94791,448.79451 q -62.35737,51.41038 -132.3566,87.58157"
+     style="color:#16a34a;opacity:0.95;fill:none;stroke:#16a34a;stroke-width:1.79981;stroke-linecap:round;stroke-linejoin:round"
+     marker-end="url(#arrowSmall)"
+     id="path22" />
+  <path
+     d="M 470.29943,365.19683 Q 410.57723,327.60323 357.37492,274.1712"
+     style="color:#16a34a;opacity:0.95;fill:none;stroke:#16a34a;stroke-width:1.69482;stroke-linecap:round;stroke-linejoin:round"
+     marker-end="url(#arrowSmall)"
+     id="path23" />
+  <path
+     d="m 620,154.6 c 63.06146,73.18364 166.80682,239.74523 208.63383,354.14572"
+     style="color:#dc2626;opacity:0.95;fill:none;stroke:#dc2626;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:8, 8"
+     marker-end="url(#arrowSmall)"
+     id="path26"
+     sodipodi:nodetypes="cc" />
+  <path
+     d="m 599.98542,159.99979 q -25.91017,246.96711 0,493.93421"
+     style="color:#dc2626;opacity:0.95;fill:none;stroke:#dc2626;stroke-width:2.43038;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:8.10126, 8.10126"
+     marker-end="url(#arrowSmall)"
+     id="path27" />
+  <path
+     d="M 580.0,154.6 Q 456.2,317.0 377.5,505.4"
+     style="stroke:#dc2626;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round;color:#dc2626;opacity:0.95;fill:none;stroke-dasharray:8,8"
+     marker-end="url(#arrowSmall)"
+     id="path28" />
+  <path
+     d="M 565.4,140.0 Q 465.8,167.5 392.2,240.0"
+     style="stroke:#dc2626;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round;color:#dc2626;opacity:0.95;fill:none;stroke-dasharray:8,8"
+     marker-end="url(#arrowSmall)"
+     id="path29" />
+  <path
+     d="M 731.24801,412.95745 C 884.05702,436.99131 977.94956,296.1721 976.12266,167.82323"
+     style="color:#6b7280;display:inline;opacity:0.9;fill:none;stroke:#6b7280;stroke-width:2.19564;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+     marker-end="url(#arrowTiny)"
+     id="path30"
+     sodipodi:nodetypes="cc" />
+  <text
+     x="300.56793"
+     y="952.51569"
+     text-anchor="middle"
+     transform="rotate(-53.114258)"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:normal;font-family:Inter, 'Segoe UI', sans-serif;fill:#333333"
+     id="text30">post-match summary</text>
+  <text
+     x="600.0"
+     y="335.0"
+     text-anchor="middle"
+     style="font: 12px Inter, Segoe UI, sans-serif; fill:#1e3a8a;"
+     id="text31">Relays inputs only • stateless broadcast • no authoritative sim</text>
+  <rect
+     x="49.897415"
+     y="731.8974"
+     width="479.46539"
+     height="148.20517"
+     rx="7.5705061"
+     fill="#ffffff"
+     stroke="#e5e7eb"
+     id="rect32"
+     style="stroke-width:0.794827;fill:#ffffff;fill-opacity:0.24832214" />
+  <text
+     x="60"
+     y="754.0"
+     style="font: 700 14px Inter, Segoe UI, sans-serif; fill:#111;"
+     id="text33">Legend</text>
+  <line
+     x1="60"
+     y1="766.0"
+     x2="96"
+     y2="766.0"
+     stroke="#2563eb"
+     stroke-width="3"
+     marker-end="url(#arrowSmall)"
+     style="color:#2563eb;stroke-linecap:round;stroke-linejoin:round"
+     id="line33" />
+  <text
+     x="108"
+     y="770.0"
+     style="font: 13px Inter, Segoe UI, sans-serif; fill:#333;"
+     id="text34">Inputs: Clients → Relay (UDP via ENet)</text>
+  <line
+     x1="60"
+     y1="792.0"
+     x2="96"
+     y2="792.0"
+     stroke="#16a34a"
+     stroke-width="3"
+     marker-end="url(#arrowSmall)"
+     style="color:#16a34a;stroke-linecap:round;stroke-linejoin:round"
+     id="line34" />
+  <text
+     x="108"
+     y="796.0"
+     style="font: 13px Inter, Segoe UI, sans-serif; fill:#333;"
+     id="text35">Broadcast: Relay → Clients (inputs to all)</text>
+  <line
+     x1="60"
+     y1="818.0"
+     x2="96"
+     y2="818.0"
+     stroke="#dc2626"
+     stroke-width="3"
+     marker-end="url(#arrowSmall)"
+     style="color:#dc2626;stroke-linecap:round;stroke-linejoin:round"
+     id="line35" />
+  <text
+     x="108"
+     y="822.0"
+     style="font: 13px Inter, Segoe UI, sans-serif; fill:#333;"
+     id="text36">Host decisions &amp; position fixes — dashed to clients (via RELAY)</text>
+  <line
+     x1="60"
+     y1="844.0"
+     x2="96"
+     y2="844.0"
+     stroke="#6b7280"
+     stroke-width="3"
+     marker-end="url(#arrowSmall)"
+     style="color:#6b7280;stroke-linecap:round;stroke-linejoin:round"
+     id="line36" />
+  <text
+     x="108"
+     y="848.0"
+     style="font: 13px Inter, Segoe UI, sans-serif; fill:#333;"
+     id="text37">Post-match: Client → Account Server (optional)</text>
+  <text
+     x="600"
+     y="897.34906"
+     text-anchor="middle"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:normal;font-family:Inter, 'Segoe UI', sans-serif;fill:#9ca3af"
+     id="text38"><tspan
+       style="fill:#afb8af;fill-opacity:1"
+       id="tspan3">Orka Leviathan/ DSACIRC-AEV™ — decentralized sim with centralized input relay &amp; host-authoritative event validation</tspan></text>
+  <path
+     d="M 565.4,140.0 Q 465.8,167.5 392.2,240.0"
+     style="stroke:#dc2626;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round;color:#dc2626;opacity:0.95;fill:none;stroke-dasharray:8,8"
+     marker-end="url(#arrowSmall)"
+     id="path38" />
+  <text
+     x="264.24982"
+     y="386.39008"
+     text-anchor="middle"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:normal;font-family:Inter, 'Segoe UI', sans-serif;fill:#b45309"
+     id="text32"
+     transform="rotate(-35.315794)"><tspan
+       sodipodi:role="line"
+       id="tspan39"
+       x="264.24982"
+       y="386.39008">Decides hits/damage/deaths</tspan><tspan
+       sodipodi:role="line"
+       id="tspan40"
+       x="264.24982"
+       y="401.39008">issues periodic position fixes</tspan></text>
+  <path
+     d="m 648.48808,139.51374 q 89.42946,30.31422 155.51388,110.23353"
+     style="color:#dc2626;opacity:0.95;fill:none;stroke:#dc2626;stroke-width:2.3877;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:7.95898, 7.95898;marker-end:url(#arrowSmall-0)"
+     marker-end="url(#arrowSmall-0)"
+     id="path38-8" />
+</svg>
